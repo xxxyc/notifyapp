@@ -1,6 +1,6 @@
 {
   "name": "vue-x-notify",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "基于vue的消息通知栏",
   "main": "lib/vue-app-notify.umd.min.js",
   "keyword": "notify vnotify",

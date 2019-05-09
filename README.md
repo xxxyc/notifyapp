@@ -1,5 +1,7 @@
 # notifyapp
 vue.js 消息通知notify
+请下载最新版  
+已下载的旧版本删除后，安装新版本
 
 ## Install
 ### npm
